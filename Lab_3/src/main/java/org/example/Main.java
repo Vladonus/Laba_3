@@ -7,8 +7,7 @@ import java.util.Formatter;
 public class Main {
     public static void main(String[] args) {
         String[][] str = new String[4][19];
-        //ArrayList<Integer> arr = new ArrayList<>();
-        //LinkedList<Integer> link = new LinkedList<>();
+        
         str[0][0] = "functions/amount";
         str[1][0] = "1000";
         str[2][0] = "2000";
